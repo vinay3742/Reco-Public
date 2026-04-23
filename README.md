@@ -62,4 +62,4 @@ To ensure the best recognition speed and accuracy, follow these steps during reg
 - **"Move Closer"**: The face is too small in the frame. Move the camera slightly closer to the subject.
 - **Recognition Failed**: If you've significantly changed your appearance (e.g., grew a full beard), we recommend updating your profile in the Registration section.
 # Reco-Public
-This repo only contains technical documentation, video, screenshots and apk.
+This repo only contains technical documentation and apk.
