@@ -1,9 +1,8 @@
-# Reco: User Guide & Feature Overview
+# Reco: User Guide & Feature Overview **(Reco is closed source project)**
 **Your Privacy-First, Secure Biometric Authentication Assistant.**
 
 Welcome to **Reco**, a modern Android application designed for secure, high-speed biometric registration and recognition. Unlike traditional systems, Reco processes everything directly on your device, ensuring your data never leaves your hands.
 
-**Reco is closed source project**
 Download[https://github.com/vinay3742/Reco-Public/releases/download/1.1.0/Reco.apk]
 
 ---
