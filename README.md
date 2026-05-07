@@ -3,7 +3,7 @@
 
 Welcome to **Reco**, a modern Android application designed for secure, high-speed biometric registration and recognition. Unlike traditional systems, Reco processes everything directly on your device, ensuring your data never leaves your hands.
 
-Download[https://github.com/vinay3742/Reco-Public/releases/download/1.1.0/Reco.apk]
+Download[(https://github.com/vinay3742/Reco-Public/releases/download/v1.2-alpha/Reco.apk)]
 
 ---
 
